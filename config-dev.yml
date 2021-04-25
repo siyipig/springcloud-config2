@@ -1,3 +1,4 @@
 config: 
-  info:  "20:20,master branch,springcloud-config/config-dev.yml version=7"
+  info:  "20:34,master branch,springcloud-config/config-dev.yml version=7"
+# curl -X POST "http://localhost:3355/actuator/refresh"
 
